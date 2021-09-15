@@ -1,0 +1,30 @@
+{
+  "name": "ossy",
+  "version": "0.0.0",
+  "description": "Ossy detects \"risky\" NPM packages in your software supply chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ossillate-inc/ossy-npm.git"
+  },
+  "keywords": [
+    "softwaresupplychain",
+    "cybersecurity",
+    "malwaredetection",
+    "typo-squatting",
+    "softwarecompositionanalysis"
+  ],
+  "author": {
+    "name":"Ossillate Inc.",
+    "email":"oss@ossillate.com",
+    "url":"https://ossillate.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ossillate-inc/ossy-npm/issues"
+  },
+  "homepage": "https://github.com/ossillate-inc/ossy-npm#readme"
+}
