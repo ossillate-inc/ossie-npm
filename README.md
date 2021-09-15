@@ -1,3 +1,3 @@
 # ossy
 
-Ossy detects "risky" Python PyPi packages in your software supply chain
+Ossy detects "risky" NPM packages in your software supply chain
