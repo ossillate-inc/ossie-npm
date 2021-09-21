@@ -1,14 +1,14 @@
 {
-  "name": "ossy",
+  "name": "sossy",
   "version": "0.0.0",
-  "description": "Ossy detects \"risky\" NPM packages in your software supply chain",
+  "description": "Sossy detects \"risky\" NPM packages in your software supply chain",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ossillate-inc/ossy-npm.git"
+    "url": "git+https://github.com/ossillate-inc/sossy-npm.git"
   },
   "keywords": [
     "softwaresupplychain",
@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ossillate-inc/ossy-npm/issues"
+    "url": "https://github.com/ossillate-inc/sossy-npm/issues"
   },
-  "homepage": "https://github.com/ossillate-inc/ossy-npm#readme"
+  "homepage": "https://github.com/ossillate-inc/sossy-npm#readme"
 }

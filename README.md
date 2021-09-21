@@ -1,3 +1,3 @@
-# ossy
+# sossy
 
-Ossy detects "risky" NPM packages in your software supply chain
+Sossy detects "risky" NPM packages in your software supply chain
